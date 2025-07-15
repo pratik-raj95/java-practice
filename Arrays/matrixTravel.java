@@ -1,4 +1,4 @@
-// package Arrays;
+package Array;
 public class matrixTravel {
     public static void main(String[] args) {
         char path[][]={{' ',' ','X',' '},{' ','X',' ',' '},{' ',' ',' ',' '},{'X',' ',' ',' '}};

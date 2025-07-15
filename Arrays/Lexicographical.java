@@ -1,4 +1,4 @@
-package Array;
+// package Array;
 
 public class Lexicographical {
     public static void main(String[] args) {
